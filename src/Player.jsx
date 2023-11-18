@@ -16,7 +16,7 @@ const cardStyle = {
 // Styles for the player image
 const imageStyle = {
   width: "100%", // Image width covering the entire container
-  height: "300px", // Image height
+  height: "350px", // Image height
   objectFit: "cover", // Cover to maintain aspect ratio
   borderTopLeftRadius: "10px", // Rounded corners for the top of the image
   borderTopRightRadius: "10px", // Rounded corners for the top of the image

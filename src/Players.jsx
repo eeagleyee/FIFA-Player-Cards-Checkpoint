@@ -1,17 +1,6 @@
 // Array containing details of FIFA players
 const players = [
   {
-    id: 8,
-    name: "Jan Oblak",
-    team: "Atletico Madrid",
-    nationality: "Slovenia",
-    jerseyNumber: 13,
-    age: 29,
-    image:
-      "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdb5c5b30e50c36e0/622e375c7206bf05fa7cf880/Jan_Oblak_Atletico_Madrid_2021-22.jpg?auto=webp&format=pjpg&width=3840&quality=60",
-    position: "Goalkeeper",
-  },
-  {
     id: 1,
     name: "Lionel Messi",
     team: "Paris Saint-Germain",
@@ -97,6 +86,17 @@ const players = [
     image:
       "https://i2-prod.football.london/incoming/article27470503.ece/ALTERNATES/s1200c/0_Salah.jpg",
     position: "Forward",
+  },
+  {
+    id: 8,
+    name: "Jan Oblak",
+    team: "Atletico Madrid",
+    nationality: "Slovenia",
+    jerseyNumber: 13,
+    age: 29,
+    image:
+      "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltdb5c5b30e50c36e0/622e375c7206bf05fa7cf880/Jan_Oblak_Atletico_Madrid_2021-22.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+    position: "Goalkeeper",
   },
   {
     id: 9,
